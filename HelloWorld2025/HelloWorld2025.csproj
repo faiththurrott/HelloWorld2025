@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="M:\ECET230\HelloWorld2025.cs" Link="HelloWorld2025.cs" />
+  </ItemGroup>
+
 </Project>
